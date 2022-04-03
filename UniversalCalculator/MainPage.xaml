@@ -60,5 +60,8 @@
 		<Button Style="{StaticResource ButtonBlueStyle}" Grid.Row="5" Grid.Column="0" Click="handleClearButtonClick">
 			C
 		</Button>
+		<Button Style="{StaticResource ButtonBlueStyle}" Grid.Row="5" Grid.Column="1" Click="Button_Click">
+			Exit
+		</Button>
 	</Grid>
 </Page>
